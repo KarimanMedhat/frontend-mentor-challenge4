@@ -1,2 +1,1 @@
-# frontend-mentor-challenge4
-Frontend Mentor NFT preview challenge
+In this project i used html and css.
